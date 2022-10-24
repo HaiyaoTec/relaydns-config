@@ -1,7 +1,8 @@
 {
   "inBound": {
     "pejuangkasino.com": "kassadin",
-    "www.pejuangkasino.com": "kassadin"
+    "www.pejuangkasino.com": "kassadin",
+    "pejuangcasino.net":"kassadin"
   },
   "siteGroups": {
     "kassadin": ["pejuangcasino.com","pejuangkasino.me","pejuangkasino.live","pejuangkasino.shop","pejuangkasino.id","pejuangkasino.net"]
