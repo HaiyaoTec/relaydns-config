@@ -1,24 +1,32 @@
 {
-  "inBound": {
-    "pejuangkasino.com": "kassadin",
-    "www.pejuangkasino.com": "kassadin",
-    "pejuangcasino.net":"kassadin"
-  },
-  "siteGroups": {
-    "kassadin": ["pejuangkasino.live","pejuangcasino.me"]
-  },
-  "telegramBot": {
-    "kassadin": {
-      "telegramBotToken": "5466635669:AAEvgypthqwLoGkyblMPqD6aNrI_ICSnS2M",
-      "telegramChatId": "-821818163"
-    }
-  },
-  "availabilityQuery": "https://trustpositif.kominfo.go.id/Rest_server/getrecordsname_home",
-  "dnsQuery": [
-    "182.253.45.122",
-    "103.122.33.19",
-    "139.255.115.163",
-    "202.58.200.38",
-    "103.83.100.65"
-  ]
+    "inBound":{
+        "pejuangkasino.com":"kassadin",
+        "www.pejuangkasino.com":"kassadin",
+        "pejuangcasino.net":"kassadin"
+    },
+    "siteGroups":{
+        "kassadin":[
+            "pejuangkasino.live",
+            "pejuangcasino.me",
+            "pejuangkasino01.com",
+"pejuangkasino02.com",
+"pejuangkasino03.com",
+"pejuangkasino04.com",
+"pejuangkasino05.com" 
+        ]
+    },
+    "telegramBot":{
+        "kassadin":{
+            "telegramBotToken":"5466635669:AAEvgypthqwLoGkyblMPqD6aNrI_ICSnS2M",
+            "telegramChatId":"-821818163"
+        }
+    },
+    "availabilityQuery":"https://trustpositif.kominfo.go.id/Rest_server/getrecordsname_home",
+    "dnsQuery":[
+        "182.253.45.122",
+        "103.122.33.19",
+        "139.255.115.163",
+        "202.58.200.38",
+        "103.83.100.65"
+    ]
 }
