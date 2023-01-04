@@ -35,6 +35,10 @@
     "pejuang": {
       "telegramBotToken":"5466635669:AAEvgypthqwLoGkyblMPqD6aNrI_ICSnS2M",
       "telegramChatId":"-821818163"
+    },
+    "kassadin-correlation": {
+      "telegramBotToken":"5466635669:AAEvgypthqwLoGkyblMPqD6aNrI_ICSnS2M",
+      "telegramChatId":"-821818163"
     }
   },
   "availabilityQuery":"https://trustpositif.kominfo.go.id/Rest_server/getrecordsname_home",
