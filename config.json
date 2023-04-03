@@ -40,7 +40,7 @@
       "telegramChatId":"-821818163"
     }
   },
-  "availabilityQuery":"https://trustpositif.kominfo.go.id/Rest_server/getrecordsname_home",
+  "availabilityQuery":"https://trustpositif-proxy.floozy-team.workers.dev/Rest_server/getrecordsname_home",
   "dnsQuery":[
     "182.253.45.122",
     "103.122.33.19",
