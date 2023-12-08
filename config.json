@@ -4,7 +4,7 @@
     "www.pejuangkasino.com":"kassadin",
     "pejuangcasino.net":"kassadin",
     "pejuang01.com": "pejuang",
-    "ccbet.com": "velkoz"
+    "ccbet.io": "velkoz"
   },
   "siteGroups":{
     "kassadin":[
@@ -28,7 +28,7 @@
       "pejuang03.com"
     ],
     "velkoz":[
-      "ccbet.io"
+      "ccbet.com"
     ]
   },
   "telegramBot":{
