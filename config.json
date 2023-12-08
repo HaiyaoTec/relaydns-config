@@ -3,7 +3,8 @@
     "pejuangkasino.com":"kassadin",
     "www.pejuangkasino.com":"kassadin",
     "pejuangcasino.net":"kassadin",
-    "pejuang01.com": "pejuang"
+    "pejuang01.com": "pejuang",
+    "ccbet.com": "velkoz"
   },
   "siteGroups":{
     "kassadin":[
@@ -14,13 +15,20 @@
     "kassadin-correlation": [
       "fsource.io",
       "kassadin.fsource.io",
+      "velkoz.fsource.io",
       "infojs.xyz",
       "api.pejuangparty.id",
-      "relaydns.me"
+      "api.ccvelkoz.com",
+      "relaydns.me",
+      "pejuangkasino.com",
+      "pejuangcasino.net"
     ],
     "pejuang": [
       "pejuang01.com",
       "pejuang03.com"
+    ],
+    "velkoz":[
+      "ccbet.io"
     ]
   },
   "telegramBot":{
@@ -33,6 +41,10 @@
       "telegramChatId":"-821818163"
     },
     "kassadin-correlation": {
+      "telegramBotToken":"5466635669:AAEvgypthqwLoGkyblMPqD6aNrI_ICSnS2M",
+      "telegramChatId":"-821818163"
+    },
+    "velkoz":{
       "telegramBotToken":"5466635669:AAEvgypthqwLoGkyblMPqD6aNrI_ICSnS2M",
       "telegramChatId":"-821818163"
     }
