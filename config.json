@@ -30,6 +30,29 @@
     ],
     "velkoz":[
       "ccbet.com"
+    ],
+    "fb":[
+      "game-1.xuanxuanaa.xyz",
+      "game-2.xuanxuanaa.xyz",
+      "game-3.xuanxuanaa.xyz",
+      "game-4.xuanxuanaa.xyz",
+      "game-5.xuanxuanaa.xyz",
+      "game-1.kasksks.xyz",
+      "game-2.kasksks.xyz",
+      "game-3.kasksks.xyz",
+      "game-4.kasksks.xyz",
+      "game-5.kasksks.xyz",
+      "game-1.amazingtrack.xyz",
+      "game-2.amazingtrack.xyz",
+      "game-3.amazingtrack.xyz",
+      "game-4.amazingtrack.xyz",
+      "game-5.amazingtrack.xyz",
+      "game-1.amazingtrack.xyz",
+      "game-2.amazingtrack.xyz",
+      "game-3.amazingtrack.xyz",
+      "game-4.amazingtrack.xyz",
+      "game-5.amazingtrack.xyz",
+      "pejwefewb1-1.vercel.app"
     ]
   },
   "telegramBot":{
@@ -48,6 +71,10 @@
     "velkoz":{
       "telegramBotToken":"5466635669:AAEvgypthqwLoGkyblMPqD6aNrI_ICSnS2M",
       "telegramChatId":"-821818163"
+    },
+    "fb":{
+      "telegramBotToken":"6802704819:AAHlz4iiI86DrDl-XKLJiqKEwEeqy7DKm1c",
+      "telegramChatId":"-1002134067400"
     }
   },
   "availabilityQuery":"https://trustpositif-proxy.floozy-team.workers.dev/Rest_server/getrecordsname_home",
