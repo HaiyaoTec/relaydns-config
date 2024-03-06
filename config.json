@@ -4,7 +4,8 @@
     "www.pejuangkasino.com":"kassadin",
     "pejuangcasino.net":"kassadin",
     "pejuang01.com": "pejuang",
-    "ccbet.io": "velkoz"
+    "ccbet.io": "velkoz",
+    "888naga.com": "smolder"
   },
   "siteGroups":{
     "kassadin":[
@@ -22,7 +23,11 @@
       "relaydns.me",
       "pejuangkasino.com",
       "pejuangcasino.net",
-      "pejuangkasino10.com"
+      "pejuangkasino10.com",
+      "smolder.fsource.io",
+      "888naga.live",
+      "smolder88.com",
+      "smolder88.me"
     ],
     "pejuang": [
       "pejuang01.com",
@@ -31,6 +36,11 @@
     ],
     "velkoz":[
       "ccbet.com"
+    ],
+    "smolder": [
+      "888naga.net",
+      "888naga.vip",
+      "888nage.co"
     ],
     "fb":[
       "game-1.xuanxuanaa.xyz",
@@ -69,6 +79,10 @@
       "telegramChatId":"-821818163"
     },
     "velkoz":{
+      "telegramBotToken":"5466635669:AAEvgypthqwLoGkyblMPqD6aNrI_ICSnS2M",
+      "telegramChatId":"-821818163"
+    },
+    "smolder":{
       "telegramBotToken":"5466635669:AAEvgypthqwLoGkyblMPqD6aNrI_ICSnS2M",
       "telegramChatId":"-821818163"
     },
