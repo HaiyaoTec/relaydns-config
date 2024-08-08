@@ -47,7 +47,8 @@
       "pejuanggame1-gogleplay.com",
       "pejuangslots.vercel.app",
       "api.kogmawif.com",
-      "assets.gaiagaiago.com"
+      "assets.gaiagaiago.com",
+      "pejuanggame.com"
     ],
     "fb":[
       "game-1.xuanxuanaa.xyz",
@@ -102,6 +103,10 @@
     "fb":{
       "telegramBotToken":"6802704819:AAHlz4iiI86DrDl-XKLJiqKEwEeqy7DKm1c",
       "telegramChatId":"-1002134067400"
+    },
+    "kogmaw-correlation":{
+      "telegramBotToken":"7068290691:AAGbZJGG5d7dDwsPpjUiZkmp08ZbVAfiLCs",
+      "telegramChatId":"-1002244494835"
     }
   },
   "availabilityQuery":"https://trustpositif-proxy.floozy-team.workers.dev/Rest_server/getrecordsname_home",
