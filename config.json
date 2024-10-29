@@ -110,7 +110,7 @@
       "telegramChatId":"-1002244494835"
     }
   },
-  "availabilityQuery":"https://trustpositif-proxy.floozy-team.workers.dev/Rest_server/getrecordsname_home",
+  "availabilityQuery":"https://trustpositif-proxy.relaydns.me/welcome",
   "dnsQuery":[
     "182.253.45.122",
     "103.122.33.19",
