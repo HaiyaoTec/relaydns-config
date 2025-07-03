@@ -150,7 +150,34 @@
     ]
   },
   "telegramBot":{
-   
+    "kassadin":{
+      "telegramBotToken":"",
+      "telegramChatId":""
+    },
+    "pejuang": {
+      "telegramBotToken":"",
+      "telegramChatId":""
+    },
+    "kassadin-correlation": {
+       "telegramBotToken":"",
+      "telegramChatId":""
+    },
+    "velkoz":{
+       "telegramBotToken":"",
+      "telegramChatId":""
+    },
+    "smolder":{
+      "telegramBotToken":"",
+      "telegramChatId":""
+    },
+    "fb":{
+       "telegramBotToken":"",
+      "telegramChatId":""
+    },
+    "kogmaw-correlation":{
+      "telegramBotToken":"",
+      "telegramChatId":""
+    }
   },
   "availabilityQuery":"https://trustpositif-proxy.relaydns.me/welcome",
   "dnsQuery":[
