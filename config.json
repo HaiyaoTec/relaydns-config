@@ -5,6 +5,7 @@
     "pejuangcasino.net":"kassadin",
     "pejuang01.com": "pejuang",
     "ccbet.io": "velkoz",
+    "ccbet.com": "velkoz",
     "pupu888.com": "smolder",
     "www.pupu888.com": "smolder",
     "pejuangkasino.relaydns.me":"kassadin",
@@ -48,7 +49,9 @@
       "pejuang01.com"
     ],
     "velkoz":[
-      "ccbet.com"
+      "ccbet01.com",
+      "ccbet02.com",
+      "ccbet03.com"
     ],
     "smolder": [
       "lionkasino02.com",
