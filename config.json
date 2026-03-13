@@ -11,7 +11,8 @@
     "pejuangkasino.relaydns.me":"kassadin",
     "pj1.pro":"kassadin-promotion",
     "lionkasino.com": "smolder",
-    "lionkasino.id": "smolder"
+    "lionkasino.id": "smolder",
+    "6xgame.com": "ksante"
   },
   "siteGroups":{
     "kassadin":[
@@ -56,6 +57,9 @@
       "lionkasino06.com",
       "lionkasino10.com",
       "lionkasino11.com"
+    ],
+    "ksante": [
+      "6xgame.com"
     ],
     "kogmaw-correlation":[
       "pejuangslot-gogleplay.com",
